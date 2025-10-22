@@ -1,0 +1,12 @@
+{
+  "name": "modul-package",
+  "version": "1.0.0",
+  "description": "Tugas 5 Modul dan Package - Implementasi modularisasi Node.js",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Ardian",
+  "license": "ISC"
+}
